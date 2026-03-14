@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Shubham</h1>
-<p align="center">
-  MSc Cyber Security student | Frontend focused Full Stack (React, TypeScript) | Cyber Security
-</p>
+<h4 align="center">
+ Frontend focused Full Stack Developer| (React | TypeScript | Next.js) | Web Assembly | (GCP | AWS) | Docker | Kubernetes
+</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bajajshubham/">
@@ -20,20 +20,20 @@
   -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Typing animation">
-</p>
+</p> -->
 
 ---
 
 ## About me
-- I build UI heavy products with a security mindset.
+- I build UI heavy products and like to work in fast paced environments.
 - I enjoy web security, and practical labs for ethical hacking.
 - I like projects that mix performance, UX, and security.
 
 <p>
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-AppSec%20%7C%20IAM%20%7C%20DevSecOps-0D1117?style=flat&logo=securityscorecard&logoColor=white">
-  <img alt="Learning" src="https://img.shields.io/badge/Learning-Threat%20Modelling%20%7C%20Detection%20Engineering-0D1117?style=flat&logo=linux&logoColor=white">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-React.js%20%7C%20Next.js%20%7C%20Typescript%20%7C%20Python-0D1117?style=flat&logo=securityscorecard&logoColor=white">
+  <img alt="Learning" src="https://img.shields.io/badge/Learning-Rust%20%7C%20AI%20%7C%20Cyber%20Security%20%7C%20Ethical%20Hacking-0D1117?style=flat&logo=linux&logoColor=white">
 </p>
 
 ---
@@ -54,7 +54,7 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices">
   <img alt="GCP" src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud">
 </p>
 
