@@ -1,13 +1,16 @@
 <h1 align="center">Shubham Bajaj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=09D5F7&center=true&vCenter=true&width=560&lines=Frontend+and+UI%2FUX+first;Backend%2C+data%2C+and+good+APIs;Sometimes+I+make+the+cloud+behave+not+rain" alt="Frontend and full-stack focus">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=4000&pause=500&color=09D5F7&center=true&vCenter=true&width=560&lines=A+Full-Stack+Fanatic;Frontend+and+UI%2FUX+first;Backend%2C+database%2C+and+good+APIs;I+make+cloud+behave,+not+rain+:P" alt="Frontend and full-stack focus" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bajajshubham"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
   <a href="https://shubhambajaj.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  &nbsp;
   <a href="https://github.com/bajajshubham"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  &nbsp;
   <a href="mailto:shubham2bajaj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
